@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JeongSoi%&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BEDeveloper&descAlignY=51&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeongSoi%&fontSize=70&animation=fadeIn&fontAlignY=38&desc=BEDeveloper&descAlignY=55&descAlign=70)
 
 <div><h3>📫 CONTACT</h3>
 <p>jsoiworks@gmail.com</p>
@@ -33,7 +33,6 @@
   
   
 [![JSoi's github stats](https://github-readme-stats.vercel.app/api?username=JSoi)](https://github.com/JSoi)
- <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSoi&layout=compact)](https://github.com/JSoi/github-readme-stats)
 
 
